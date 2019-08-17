@@ -3,6 +3,11 @@ body {
   margin: 0;
   background: #f2f6e9;
 }
+p {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-size: 20px;
+}
 /*--- navigation bar ---*/
 .navbar {
   background:#6ab446;
